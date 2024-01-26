@@ -1,0 +1,7 @@
+---
+title: Index page
+listing:
+    contents: "/list-content/*"
+    type: table
+---
+Listing page
